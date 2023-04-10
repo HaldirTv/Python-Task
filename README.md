@@ -8,4 +8,5 @@ symbol = input('Введите символ: ')
 print((symbol + "\n") * length)
 ```
 
-![image](https://user-images.githubusercontent.com/120830944/230853970-dfc721d8-3512-4807-ac80-d4d714b37b85.png)
+![image](https://user-images.githubusercontent.com/120830944/230854116-10da1257-e12f-4827-bda3-b1b9753f830d.png)
+
